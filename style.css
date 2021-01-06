@@ -25,26 +25,17 @@ body{
 p{
     color:rgb(15, 15, 15);
 }
-
-
 #full-stack{
     border-left: 7px solid;
-   
-    
-
 }
 #baby-web{
     border-left: 7px solid;
-    
-    
 }
-
 .parent{
     width: 100%;
     overflow: hidden;
     background: #F7F7F7;
         padding: 75px 0px;
-
 }
 .second_parent{
     width: 70%;
@@ -58,7 +49,6 @@ p{
     color: #FF6F51;
 }
 .child_left{
-
     width: 28%;
     float: left;
     margin: auto;
@@ -72,7 +62,7 @@ p{
     width: 100%;
  }
  .child_left,.child_mid,.child_right h3{
-    padding-left: 10px;
+    padding-left: 20px;
  }
 .child_left,.child_mid,.child_right p{
 
@@ -118,9 +108,6 @@ p{
     float: left;
     overflow: hidden;
 }
-
-
-
 .part_forth{
     background-image: url(images/pic3.png);
     width: 500px;
@@ -128,9 +115,6 @@ p{
     background-size:cover;
     width: 40%;
     height: 148px;
-
-    
-
     margin: auto; 
 }
 
@@ -174,7 +158,7 @@ p{
     text-align: center;
 }
 .footer_image img{
-    width: 30px;
+    width: 40px;
 }
 .single{
     width: 20%;
