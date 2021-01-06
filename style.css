@@ -25,3 +25,166 @@ body{
 p{
     color:rgb(15, 15, 15);
 }
+
+
+#full-stack{
+    border-left: 7px solid;
+   
+    
+
+}
+#baby-web{
+    border-left: 7px solid;
+    
+    
+}
+
+.parent{
+    width: 100%;
+    overflow: hidden;
+    background: #F7F7F7;
+        padding: 75px 0px;
+
+}
+.second_parent{
+    width: 70%;
+    overflow: hidden;
+    margin: auto;
+}
+.second_content{
+    text-align: center;
+}
+.second_content span{
+    color: #FF6F51;
+}
+.child_left{
+
+    width: 28%;
+    float: left;
+    margin: auto;
+    overflow: hidden;
+    background: #fff;
+    border-radius: 20px;
+    margin: 20px;
+    padding-bottom: 20px;
+}
+.child_left img{
+    width: 100%;
+ }
+ .child_left,.child_mid,.child_right h3{
+    padding-left: 10px;
+ }
+.child_left,.child_mid,.child_right p{
+
+    padding-left: 10px;
+ }
+.child_mid{
+
+    width: 28%;
+    float: left;
+    margin: auto;
+    overflow: hidden;
+    background: #fff;
+    border-radius: 20px;
+    margin: 20px;
+    padding-bottom: 18px;
+}
+.child_mid img{
+    width: 100%;
+ }
+.child_right{
+
+    width: 28%;
+    float: left;
+    margin: auto;
+    overflow: hidden;
+    background: #fff;
+    border-radius: 20px;
+    margin: 20px;
+}
+
+.child_right img{
+    width: 100%;
+ }
+
+.contact_left{
+    width:50%;
+    float: left;
+    overflow: hidden;
+}
+
+.contact_right{
+    width:50%;
+    float: left;
+    overflow: hidden;
+}
+
+
+
+.part_forth{
+    background-image: url(images/pic3.png);
+    width: 500px;
+    height: 300px;
+    background-size:cover;
+    width: 40%;
+    height: 148px;
+
+    
+
+    margin: auto; 
+}
+
+.part_forth_left{
+    width: 50%;
+    float: left;
+    overflow: hidden;
+}
+.part_forth_left h1{
+    color: #fff;
+    font-size: 27px;
+    padding: 40px 50px;
+}
+.part_forth_right {
+    width: 22%;
+    
+    overflow: hidden;
+    float: right;
+    padding: 57px 0px;
+}
+
+.button{
+        background-color: #FF6F51;
+    color: #fff;
+    padding: 10px 15px;
+    
+    display: inline-block;
+    border-radius: 5px;
+}
+.footer_main p {
+    text-align: center;
+}
+.footer_main  h2{
+    text-align: center;
+}
+.footer p {
+    text-align: center;
+    font-size: 30px;
+}
+.footer_image{
+    text-align: center;
+}
+.footer_image img{
+    width: 30px;
+}
+.single{
+    width: 20%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.double{
+    width: 100%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
